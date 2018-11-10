@@ -1,0 +1,29 @@
+{
+  "name": "amqp-rpc-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangYunP/amqp-rpc-middleware.git"
+  },
+  "author": "polo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhangYunP/amqp-rpc-middleware/issues"
+  },
+  "homepage": "https://github.com/ZhangYunP/amqp-rpc-middleware#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3",
+    "uuid": "^3.3.2"
+  }
+}
