@@ -1,5 +1,5 @@
-const RpcRequest = require('./lib/mq-request')
-const RpcResponse = require('./lib/mq-response')
+const RpcRequest = require('./lib/mqRequest')
+const RpcResponse = require('./lib/mqResponse')
 
 module.exports = {
   RpcRequest,

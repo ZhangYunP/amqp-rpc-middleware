@@ -22,8 +22,10 @@
   "homepage": "https://github.com/ZhangYunP/amqp-rpc-middleware#readme",
   "dependencies": {
     "amqplib": "^0.5.2",
-    "mocha": "^5.2.0",
-    "should": "^13.2.3",
     "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
   }
 }

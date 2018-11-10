@@ -1,4 +1,6 @@
+require('should')
 const { RpcRequest } = require('../index')
+
 
 const options = {
   protocol: 'amqp',
